@@ -1,86 +1,88 @@
 {
-    "Livros de Romance": [
-        {
-            "id": 1,
-            "Título":"Demian",
-            "Autor(a)":"Herman Hesse",
-           "editora": "Record",
-            "Preco": 49.99,
-            "Estoque": 109,
-            "Capa": "Comum",
-              "ISBN": "978-8501020291"
-          },
-          {
-            "id": 2,
-            "Título":"O morro dos ventos uivantes",
-            "Autor(a)":"Emily Brontë",
-           "editora": "Darkside",
-            "Preco": 49.99,
-            "Estoque": 210,
-            "Capa": "Dura",
-              "ISBN": "978-8594542182"
-          },
-          {
-            "id": 3,
-            "Título":"O Grande Gatsby",
-            "Autor(a)":"F. Scott Fitzgerald",
-           "editora": "Principis",
-            "Preco": 29.99,
-            "Estoque": 513,
-            "Capa": "Comum",
-              "ISBN": "978-6555520101"
-          }
-    ],
-    "Livros de Aventura": [
-        {
-            "id": 1,
-            "Título": "Dom Quixote",
-            "Autor(a)":"Miguel de Cervantes",
-            "editora": "Pé da letra",
-            "Preco": 70.00,
-            "Estoque": 200,
-            "Capa": "Dura",
-            "ISBN":"978-8595200852"
-           },
-           {
-            "id": 2,
-            "Título": "Moby Dick, ou A baleia",
-            "Autor(a)":"Herman Melville",
-            "editora": "Editora 34",
-            "Preco": 70.00,
-            "Estoque": 650,
-            "Capa": "Dura",
-            "ISBN":"978-8573267389"
-           }
-    ],
-    "Livros de poesia": [
-      {"id": 1,
-            "Título": "A divina comédia - Inferno",
-            "Autor(a)":"Dante Alighieri",
-            "editora": "Principis",
-            "Preco": 30.00,
-            "Estoque": 250,
-            "Capa": "Dura",
-            "ISBN":"978-6550970321"
-           },
-           {"id": 2,
-           "Título": "A divina comédia - Purgatório",
-           "Autor(a)":"Dante Alighieri",
-           "editora": "Principis",
-           "Preco": 30.00,
-           "Estoque": 250,
-           "Capa": "Dura",
-           "ISBN":"978-6550970338"
-          },
-          {"id": 3,
-          "Título": "A divina comédia - Paraíso",
-          "Autor(a)":"Dante Alighieri",
-          "editora": "Principis",
-          "Preco": 30.00,
-          "Estoque": 250,
-          "Capa": "Dura",
-          "ISBN":"978-6550970345"
-         }
-    ]
-  }
-  
+  "Livros de Romance": [
+    {
+      "id": 1,
+      "Título": "Demian",
+      "Autor(a)": "Herman Hesse",
+      "Editora": "Record",
+      "Preco": 49.99,
+      "Estoque": 109,
+      "Capa": "Comum",
+      "ISBN": "978-8501020291"
+    },
+    {
+      "id": 2,
+      "Título": "O morro dos ventos uivantes",
+      "Autor(a)": "Emily Brontë",
+      "Editora": "Darkside",
+      "Preco": 49.99,
+      "Estoque": 210,
+      "Capa": "Dura",
+      "ISBN": "978-8594542182"
+    },
+    {
+      "id": 3,
+      "Título": "O Grande Gatsby",
+      "Autor(a)": "F. Scott Fitzgerald",
+      "Editora": "Principis",
+      "Preco": 29.99,
+      "Estoque": 513,
+      "Capa": "Comum",
+      "ISBN": "978-6555520101"
+    }
+  ],
+  "Livros de Aventura": [
+    {
+      "id": 1,
+      "Título": "Dom Quixote",
+      "Autor(a)": "Miguel de Cervantes",
+      "Editora": "Pé da letra",
+      "Preco": 70.00,
+      "Estoque": 200,
+      "Capa": "Dura",
+      "ISBN": "978-8595200852"
+    },
+    {
+      "id": 2,
+      "Título": "Moby Dick, ou A baleia",
+      "Autor(a)": "Herman Melville",
+      "Editora": "Editora 34",
+      "Preco": 70.00,
+      "Estoque": 650,
+      "Capa": "Dura",
+      "ISBN": "978-8573267389"
+    }
+  ],
+  "Livros de poesia": [
+    {
+      "id": 1,
+      "Título": "A divina comédia - Inferno",
+      "Autor(a)": "Dante Alighieri",
+      "Editora": "Principis",
+      "Preco": 30.00,
+      "Estoque": 250,
+      "Capa": "Dura",
+      "ISBN": "978-6550970321"
+    },
+    {
+      "id": 2,
+      "Título": "A divina comédia - Purgatório",
+      "Autor(a)": "Dante Alighieri",
+      "editora": "Principis",
+      "Preco": 30.00,
+      "Estoque": 250,
+      "Capa": "Dura",
+      "ISBN": "978-6550970338"
+    },
+    {
+      "id": 3,
+      "Título": "A divina comédia - Paraíso",
+      "Autor(a)": "Dante Alighieri",
+      "editora": "Principis",
+      "Preco": 30.00,
+      "Estoque": 250,
+      "Capa": "Dura",
+      "ISBN": "978-6550970345"
+    }
+  ]
+}
