@@ -1,5 +1,5 @@
 {
-  "Livros de Romance": [
+  "Romance": [
     {
       "id": 1,
       "Título": "Demian",
@@ -31,7 +31,7 @@
       "ISBN": "978-6555520101"
     }
   ],
-  "Livros de Aventura": [
+  "Aventura": [
     {
       "id": 1,
       "Título": "Dom Quixote",
@@ -53,7 +53,7 @@
       "ISBN": "978-8573267389"
     }
   ],
-  "Livros de poesia": [
+  "Poesia": [
     {
       "id": 1,
       "Título": "A divina comédia - Inferno",
